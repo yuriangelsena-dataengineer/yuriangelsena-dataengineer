@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuriangel</h1>
 <h3 align="center">Data engineer and Cloud enthusiast ☁️ Problem solver, if there’s a challenge, there’s a way to solve it</h3>
 
-- 🔭 I’m currently working on [Cloud computing](Serverless arquitectures using AWS (Lambda, DynamoDB, S3, RDS, SQS, SNS))
+- 🔭 I’m currently working on Cloud computing (Serverless arquitectures using AWS (Lambda, DynamoDB, S3, RDS, SQS, SNS))
 
 - 🌱 I’m currently learning **Devops (Kubernetes, terraform, Doker)**
 
